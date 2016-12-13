@@ -1,0 +1,80 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="alsadany.github.io" resolutions="1x" timestamp="1481626417827">
+  <folder name="css">
+    <file name="site_global.css" crc="373594680"/>
+    <file name="index.css" crc="424754156" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u776.php" crc="444825421" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="4235055032" ref="index"/>
+    <file name="site.jpg" crc="4235924578" ref="index"/>
+    <file name="alsadany.jpg" crc="83103358" ref="index"/>
+    <file name="1.jpg" crc="50683059" ref="index"/>
+    <file name="b3.jpg" crc="416443624" seo="true" ref="index"/>
+    <file name="b2.jpg" crc="3878368655" seo="true" ref="index"/>
+    <file name="b1.jpg" crc="3893288683" seo="true" ref="index"/>
+    <file name="b5.jpg" crc="4000217363" seo="true" ref="index"/>
+    <file name="b7.jpg" crc="432063564" seo="true" ref="index"/>
+    <file name="b4.jpg" crc="226023379" seo="true" ref="index"/>
+    <file name="b8.jpg" crc="497805113" seo="true" ref="index"/>
+    <file name="b9.jpg" crc="46452884" seo="true" ref="index"/>
+    <file name="b6.jpg" crc="507154952" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="c2317x201.jpg" crc="3770812707" seo="true" ref="index"/>
+    <file name="c3.jpg" crc="3876340973" seo="true" ref="index"/>
+    <file name="c1290x209.png" crc="389850383" seo="true" ref="index"/>
+    <file name="c4-crop-u2225.jpg" crc="338660770" ref="index"/>
+    <file name="c5-crop-u2234.jpg" crc="64180480" ref="index"/>
+    <file name="c6302x201.jpg" crc="3980269728" seo="true" ref="index"/>
+    <file name="c7.jpg" crc="191151358" seo="true" ref="index"/>
+    <file name="c8-crop-u2261.jpg" crc="4294893765" ref="index"/>
+    <file name="c9.jpg" crc="218065261" seo="true" ref="index"/>
+    <file name="c2.jpg" crc="454845203" seo="true" ref="index"/>
+    <file name="c1.png" crc="99379645" seo="true" ref="index"/>
+    <file name="c4.jpg" crc="340591377" seo="true" ref="index"/>
+    <file name="c5.jpg" crc="176943302" seo="true" ref="index"/>
+    <file name="c6.jpg" crc="399494133" seo="true" ref="index"/>
+    <file name="c8.jpg" crc="459981876" seo="true" ref="index"/>
+    <file name="a1.jpg" crc="57271761" seo="true" ref="index"/>
+    <file name="a3.jpg" crc="3922300372" seo="true" ref="index"/>
+    <file name="a4.jpg" crc="397294631" seo="true" ref="index"/>
+    <file name="a5.jpg" crc="430655055" seo="true" ref="index"/>
+    <file name="a6290x216.jpg" crc="3785245768" seo="true" ref="index"/>
+    <file name="a2.jpg" crc="4082325347" seo="true" ref="index"/>
+    <file name="a7.jpg" crc="3942757833" seo="true" ref="index"/>
+    <file name="a8.jpg" crc="3840533962" seo="true" ref="index"/>
+    <file name="a9.jpg" crc="3936249130" seo="true" ref="index"/>
+    <file name="a6.jpg" crc="3847907954" seo="true" ref="index"/>
+    <file name="4.jpg" crc="271581077" ref="index"/>
+    <file name="5474597_orig.jpg" crc="4285474054" ref="index"/>
+    <file name="computernetwork.jpg" crc="3966979181" ref="index"/>
+    <file name="technical-support.png" crc="3992363728" ref="index"/>
+    <file name="295619.jpg" crc="3808018332" ref="index"/>
+    <file name="b92.jpg" crc="193672845" ref="index"/>
+    <file name="2258410.jpg" crc="4015577365" ref="index"/>
+    <file name="3.jpg" crc="347201987" ref="index"/>
+    <file name="u795-17.png" crc="298299852" ref="index"/>
+    <file name="u795-17-r.png" crc="137564872" ref="index"/>
+    <file name="u795-17-m.png" crc="35156781" ref="index"/>
+    <file name="u795-17-fs.png" crc="3813937384" ref="index"/>
+    <file name="facebook.png" crc="3937578975" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3814303242" seo="true" mt="1481623288747" redirect="true"/>
+</manifest>
